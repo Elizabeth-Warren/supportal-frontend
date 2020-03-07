@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "vol_prospect_assignment": 1,
+  "ma_event_id":null,
+  "ma_timeslot_ids":null,
+  "result_category": "UNREACHABLE",
+  "result": "UNREACHABLE_WRONG_NUMBER",
+  "metadata": null,
+  "created_at": "2019-11-06T17:19:21.845674Z",
+  "updated_at": "2019-11-06T17:19:21.845701Z",
+  "note": ""
+}

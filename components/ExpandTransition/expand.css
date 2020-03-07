@@ -1,0 +1,21 @@
+/* purgecss start ignore */
+.expand-enter {
+  max-height: 0;
+}
+
+.expand-enter-active {
+  max-height: 100vh;
+  overflow: hidden;
+  transition: max-height 200ms linear;
+}
+
+.expand-exit {
+  max-height: 100vh;
+}
+
+.expand-exit-active {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 200ms linear;
+}
+/* purgecss end ignore */
