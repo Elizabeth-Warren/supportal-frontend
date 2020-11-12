@@ -40,7 +40,7 @@ class MyDocument extends Document {
           <link
             rel="stylesheet"
             type="text/css"
-            href="https://cloud.typography.com/7490076/7073012/css/fonts.css"
+            href="https://cdn.elizabethwarren.com/_public/fonts/fonts.css"
           />
           {process.env.NODE_ENV === 'production' && (
             <script
